@@ -17,9 +17,9 @@
   <ItemGroup>
     <!-- This section is to force the version of non-direct dependencies -->
     <!-- the following package(s) are from https://github.com/dotnet/fxdac -->
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <!-- the following package(s) are from https://github.com/dotnet/corefx -->
-    <PackageReference Include="System.IO.Packaging" Version="8.0.0-rc.2.23479.6" />
+    <PackageReference Include="System.IO.Packaging" Version="8.0.1" />
     <PackageReference Include="System.Net.Http.WinHttpHandler" Version="8.0.0-rc.2.23479.6" />
     <PackageReference Include="System.Text.Encodings.Web" Version="8.0.0-rc.2.23479.6" />
     <!--
